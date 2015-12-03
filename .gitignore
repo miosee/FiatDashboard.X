@@ -1,0 +1,12 @@
+*.o
+build/default/debug/curtis.o.d
+*.d
+dist/default/debug/FiatDashboard.X.debug.elf
+*.mk
+nbproject/Makefile-genesis.properties
+nbproject/Package-default.bash
+nbproject/private/configurations.xml
+*.map
+dist/default/production/FiatDashboard.X.production.elf
+*.hex
+nbproject/private/private.xml
